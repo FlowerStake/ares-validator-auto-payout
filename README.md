@@ -43,7 +43,10 @@ Example output:
  Ares Protocol auto payout
 
  - Check source at https://github.com/FlowerStake/ares-validator-auto-payout
- - Made with love from ColmenaLabs_SVQ https://colmenalabs.org/ and adapted to Ares Protocol by Jimi Flowers
+
+ - Made with love from ColmenaLabs_SVQ https://colmenalabs.org/
+
+ - Adapted to Ares Protocol by Jimi Flowers https://flowerstake.io/
 
  -> Validator stash address is 4CDo1enKQhb7EXYh91yfANuxRS7VdEfuHb8SxQRvw173jpPd
  -> Importing account 4G6qCzHmfKgk9W5QBidVndsbhXQ2PvfUDu1YKuizqfDP7j3y
