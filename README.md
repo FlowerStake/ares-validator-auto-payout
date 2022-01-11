@@ -2,7 +2,7 @@
 
 Claim and distribute validator staking rewards for your stakers automagically in Ares Protocol Substrate blockchain.
 
-Made with ❤️ from ColmenaLabs_SVQ! Adapted to RAres Protocol by Jimi Flowers
+Made with ❤️ from ColmenaLabs_SVQ! Adapted to Ares Protocol by Jimi Flowers (https://flowerstake.io)
 
 ## Install
 
