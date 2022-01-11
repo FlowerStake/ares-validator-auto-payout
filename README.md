@@ -4,7 +4,7 @@ Claim and distribute validator staking rewards for your stakers automagically in
 
 Made with ❤️ from ColmenaLabs_SVQ! Adapted to Ares Protocol by Jimi Flowers (https://flowerstake.io)
 
-## Install
+## Install NodeJS, clone repo and install modules
 
 Needs nodejs (>= v10.20.1), check https://nodejs.org/en/download/ to install for your platform.
 
@@ -16,11 +16,13 @@ cd ares-validator-auto-payout
 yarn
 ```
 
-## Important: Once all modules are installed, you need to re-download type definitions from repo
+#### Important: Once all modules are installed, you need to re-download type definitions from repo
 
 ```
 git checkout HEAD node_modules/@ares-protocol
 ```
+
+## Add KeyStore (JSON Account File)
 
 Go to [Polkadot JS UI](https://js.aresprotocol.io/apps/#/accounts) and export the account you want to use to json format, then copy the json file/s in the `keystores` folder.
 
