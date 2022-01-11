@@ -16,6 +16,12 @@ cd ares-validator-auto-payout
 yarn
 ```
 
+## Important: Once all modules are installed, you need to re-download type definitions from repo
+
+```
+git checkout HEAD node_modules/@ares-protocol
+```
+
 Go to [Polkadot JS UI](https://js.aresprotocol.io/apps/#/accounts) and export the account you want to use to json format, then copy the json file/s in the `keystores` folder.
 
 ## Usage
